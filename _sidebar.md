@@ -1,0 +1,19 @@
+
+- **WA Cyber Security Unit (DGov)**
+- [Home](/)
+- [Sentinel Connector Guidance](/onboarding/sentinel-guidance.md)
+- [SOC Onboarding](/onboarding.md)
+- [Baseline for Event Ingestion](/onboarding/baseline-event-ingestion.md)
+- [Advisory Detail](/advisories.md)
+- [IRP User Guide (Jira)](/docs/incident-reporting.md)
+- [SOC Analyst Induction](/docs/analyst-induction.md)
+  - [Azure Basics](/docs/azure-basics.md)
+  - [Workstation Self-Build (Linux, macOS, Windows)](/docs/workstations.md)
+- [Collecting Evidence](/docs/collecting-evidence.md)
+- [Cyber Security Playbooks](/docs/playbooks.md)
+- **Links**
+- [Office of Digital Government](https://www.wa.gov.au/organisation/department-of-the-premier-and-cabinet/office-of-digital-government)
+- [Cyber Security Policy](https://www.wa.gov.au/government/publications/wa-government-cyber-security-policy)
+- [Dynamics IRP (legacy)](https://www.wa.gov.au/service/security/information-security/western-australian-government-cyber-security-incident-reporting-portal)
+- [Vulnerability Management](https://www.wa.gov.au/organisation/department-of-the-premier-and-cabinet/vulnerability-scanning-service-description)
+- [Github](https://github.com/wagov)
